@@ -17,10 +17,6 @@
 
 - 💼 I am currently working as a **Data Engineer** at **Scantech** where I am responsible for designing and implementing scalable data pipelines and architectures for industrial data centralization and Software Engineering.
 
-<br>
-
-- 🤔 I’m looking for help with **Advanced Data Modeling** and **Machine Learning Deployment**, **Automation processes** and **Data visualisation** .
-- 💬 Ask me about **Data Warehousing, ETL Processes, and Data Visualization**.
 
 <br>
 
